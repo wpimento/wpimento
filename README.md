@@ -1,11 +1,11 @@
 ## William Pimentel
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=W1lli4mP&hide_border=true&background=00000000&ring=00CEC9&fire=00CEC9&currStreakNum=FFFFFF&currStreakLabel=00CEC9&sideNums=FFFFFF&sideLabels=00CEC9&dates=7F7F7F">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wpimento&hide_border=true&background=00000000&ring=00CEC9&fire=00CEC9&currStreakNum=FFFFFF&currStreakLabel=00CEC9&sideNums=FFFFFF&sideLabels=00CEC9&dates=7F7F7F">
 
 **About Me**
 - Aspiring AI/ML Engineer
 - Studying BSc Computer Science at the University of Nottingham
 - Interested in reinforcement learning and computer vision
-- Currently working on a [Chess Engine in C](https://github.com/W1lli4mP/Chess-Engine-In-C)
+- Currently working on a [Chess Engine in C](https://github.com/wpimento/Chess-Engine-In-C)
 
 ## Tech Stack
 
